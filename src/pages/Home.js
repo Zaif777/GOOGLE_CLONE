@@ -3,7 +3,7 @@ import './Home.css'
 import { Link } from 'react-router-dom';
 import AppsIcon from '@mui/icons-material/Apps';
 import { Avatar } from '@mui/material';
-
+   
 function Home() {
   return ( 
     <div className='home'>
