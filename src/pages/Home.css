@@ -33,3 +33,16 @@
     margin-right: 20px;
 } 
  
+.home__body{
+    flex: 1;
+    display: flex;
+    margin-top: -2%;
+    flex-direction: column;
+
+}
+
+.home__body > img{
+    object-fit: contain;
+    height: 350px;
+    margin-bottom: -70px;
+}
